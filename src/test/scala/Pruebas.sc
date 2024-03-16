@@ -1,5 +1,4 @@
-/*Angie Joya import scala.compiletime.ops.long
-- 2322609
+/*Angie Joya - 2322609
 Emily Nuñez - 2240156*/
 import  Comparador._
 import scala.util.Random
