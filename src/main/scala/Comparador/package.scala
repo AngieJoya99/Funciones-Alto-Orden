@@ -27,9 +27,16 @@ package object Comparador{
     pareja usando el InsertionSort. */
     def insertionSort[T] (comp:Comparador[T]): AlgoritmoOrd[T] = 
     {
-        def insertionS(l:List[T],)   
-        val lista = List[T]()
-        if(lista.isEmpty) (lista,0) else insert(lista.head,insertionSort(lista.tail),comp)
+        def insertion(gl:List[T],nl:List[T],cont:Int):(List[T],Int) = 
+        {
+            if(gl.isEmpty) (nl,cont)
+            else {
+                val(lista,contador)=insert(gl.head,nl,comp)
+                insertion(gl.tail,lista,contador+cont)
+            }
+        }
+
+        (gl:List[T]) =>{insertion(gl,List[T](), 0)}
         
     }
 
@@ -49,12 +56,10 @@ package object Comparador{
     def quickSort[T] (comp:Comparador[T]): AlgoritmoOrd[T] = {
         /*2 listas, l1+l2=l y Todos los elementos de l1 son mayores
         que todos los elementos de l2*
-        El pivote es el primer elemento de l/
+        El pivote es el primer elemento de l*/
         
             
         }
-        
-    }
 
     /*Recibe dos algoritmos de ordenamiento y una lista para ordenar
     y devuelve una pareja con el numero de comparaciones hechas por a1,
