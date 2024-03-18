@@ -8,13 +8,28 @@ package object Comparador{
     de tipo T y devuelve , en una pareja la lista ordenada incluyendo el elemento e
     y cuantas comparaciones se hicieron para lograrlo*/
     def insert[T] (e:T, l:List[T], comp:Comparador[T]): (List[T], Int) = {
-        
+
+       def insertar[T](e:T, l:List[T], comp:Comparador[T],cont:Int):(List[T],Int) =
+       {
+        if ((l.isEmpty)||(comp(e,l.head))) (e::l,cont) 
+        else 
+        {
+            val (lista,contador) = insertar(e,l.tail,comp,cont+1)
+            (l.head::lista,contador)
+        }
+       }
+
+       insertar(e,l,comp,1)    
     }
 
     /*Generadora de instancias. Recibe un comparador de elementos de tipo T
     y devuelve la lista ordenada y el numero de comparaciones realizadas en una 
     pareja usando el InsertionSort. */
-    def insertionSort[T] (comp:Comparador[T]): AlgoritmoOrd[T] = {
+    def insertionSort[T] (comp:Comparador[T]): AlgoritmoOrd[T] = 
+    {
+        def insertionS(l:List[T],)   
+        val lista = List[T]()
+        if(lista.isEmpty) (lista,0) else insert(lista.head,insertionSort(lista.tail),comp)
         
     }
 
@@ -23,13 +38,21 @@ package object Comparador{
     que son menores que v, la lista de los que no son menores que v
     y cuantas comparaciones se hicieron para llegar a ella*/
     def menoresQue_noMenoresQue (l:List[T], v:T, comp:Comparador[T]) : (List[T], List[T], Int) = {
+        v = l.head
         
+
     }
 
     /*Recibe una lista de elementos de tipo T y un comparador de esos elementos
     y devuelve la lista ordenada y el numero de comparaciones realizadas en una 
     pareja Usando el quickSort*/
     def quickSort[T] (comp:Comparador[T]): AlgoritmoOrd[T] = {
+        /*2 listas, l1+l2=l y Todos los elementos de l1 son mayores
+        que todos los elementos de l2*
+        El pivote es el primer elemento de l/
+        
+            
+        }
         
     }
 
