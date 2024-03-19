@@ -45,7 +45,10 @@ package object Comparador{
     que son menores que v, la lista de los que no son menores que v
     y cuantas comparaciones se hicieron para llegar a ella*/
     def menoresQue_noMenoresQue (l:List[T], v:T, comp:Comparador[T]) : (List[T], List[T], Int) = {
-        v = l.head
+        val pivote : T = l.head
+        def listaMenor: List[T]
+        def listaMayor: List[T]
+        def insertar[T](e:T, l:List[T], comp:Comparador[T],cont:Int):(List[T],Int)
         
 
     }
