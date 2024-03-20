@@ -18,8 +18,7 @@ package object Comparador{
             (l.head::lista,contador)
         }
        }
-
-       insertar(e,l,comp,1)    
+       insertar(e,l,comp,0)    
     }
 
     /*Generadora de instancias. Recibe un comparador de elementos de tipo T
@@ -35,9 +34,7 @@ package object Comparador{
                 insertion(gl.tail,lista,contador+cont)
             }
         }
-
-        (gl:List[T]) =>{insertion(gl,List[T](), 0)}
-        
+        (gl:List[T]) =>{insertion(gl,List[T](), 0)}        
     }
 
     /*Recibe una lista de elementos de tipo T y un valor v de tipo T 
@@ -45,10 +42,20 @@ package object Comparador{
     que son menores que v, la lista de los que no son menores que v
     y cuantas comparaciones se hicieron para llegar a ella*/
     def menoresQue_noMenoresQue (l:List[T], v:T, comp:Comparador[T]) : (List[T], List[T], Int) = {
-        val pivote : T = l.head
-        def listaMenor: List[T]
-        def listaMayor: List[T]
-        def insertar[T](e:T, l:List[T], comp:Comparador[T],cont:Int):(List[T],Int)
+        //Función que parte la lista en 2
+        val listaMenor: List[T] = List()
+        val listaMayor: List[T] = List()
+        def crearListas(l:List[T], v:T, comp:Comparador[T], contador:Int){
+
+
+
+            v::listaMenor
+            
+        }
+        crearListas(e,l,comp,0) 
+        
+
+
         
 
     }
@@ -60,12 +67,18 @@ package object Comparador{
         /*2 listas, l1+l2=l y Todos los elementos de l1 son mayores
         que todos los elementos de l2*
         El pivote es el primer elemento de l*/
-        
+        val pivote : T = l.head
+        def recusion(){}
+        def insertion(gl:List[T],nl:List[T],cont:Int):(List[T],Int) =
+
+                
             
         }
+        
+    }
 
     /*Recibe dos algoritmos de ordenamiento y una lista para ordenar
-    y devuelve una pareja con el numero de comparaciones hechas por a1,
+    y devuelve una pareja con el numero de comparaciones <hechas por a1,
     y el numero de comparaciones hechas por a2 para esa instancia de l en particular
     si los dos algoritmos dan el mismo resultado si no, devuelve (-1,-1)*/
     def comparar[T] (a1:AlgoritmoOrd[T], a2:AlgoritmoOrd[T], l:List[T]): (Int, Int) ={
