@@ -35,10 +35,6 @@ package object Comparador {
         (gl:List[T]) =>{insertion(gl,List[T](), 0)}        
     }
 
-    /*Recibe una lista de elementos de tipo T y un valor v de tipo T 
-    y un comparador de elementos de T, y devuelve la lista de elementos de l
-    que son menores que v, la lista de los que no son menores que v
-    y cuantas comparaciones se hicieron para llegar a ella*/
     def menoresQue_noMenoresQue[T]( l: List[T], v: T, comp: Comparador[T] ): (List[T], List[T], Int) = {
         if ( l.isEmpty ) (List(), List(), 0)
         else
@@ -47,17 +43,22 @@ package object Comparador {
             else ( lista1, l.head :: lista2, contador + 1)
     }
 
-    /*Recibe una lista de elementos de tipo T y un comparador de esos elementos
-    y devuelve la lista ordenada y el numero de comparaciones realizadas en una 
-    pareja Usando el quickSort*/
     def quickSort[T] (comp:Comparador[T]): AlgoritmoOrd[T] = {
         def algoritmo(lista:List[T]):(List[T],Int) = {
-            //Avances
+            if(lista.isEmpty) (List(),0)
+            else {
+                val pivote : T = lista.head
+                val (menores, mayores, contador) = menoresQue_noMenoresQue(lista.tail, pivote, comp)
+                val (menoresOrdenados, contadorMenores) = algoritmo(menores)
+                val (mayoresOrdenados, contadorMayores) = algoritmo(mayores)
+                (menoresOrdenados ::: (pivote :: mayoresOrdenados), contador + contadorMenores + contadorMayores)
+            }
         }
+        algoritmo
     }
 
     /*Recibe dos algoritmos de ordenamiento y una lista para ordenar
-    y devuelve una pareja con el numero de comparaciones <hechas por a1,
+    y devuelve una pareja con el numero de comparaciones hechas por a1,
     y el numero de comparaciones hechas por a2 para esa instancia de l en particular
     si los dos algoritmos dan el mismo resultado si no, devuelve (-1,-1)*/
     def comparar[T] (a1:AlgoritmoOrd[T], a2:AlgoritmoOrd[T], l:List[T]): (Int, Int) ={
