@@ -1,6 +1,4 @@
-/*Angie Joya - 2322609
-Emily Nuñez - 2240156*/
-package object Comparador{
+package object Comparador {
     type AlgoritmoOrd[T] = List[T] => (List[T], Int)
     type Comparador [T] = (T,T) => Boolean
 
@@ -41,40 +39,21 @@ package object Comparador{
     y un comparador de elementos de T, y devuelve la lista de elementos de l
     que son menores que v, la lista de los que no son menores que v
     y cuantas comparaciones se hicieron para llegar a ella*/
-    def menoresQue_noMenoresQue (l:List[T], v:T, comp:Comparador[T]) : (List[T], List[T], Int) = {
-        //Función que parte la lista en 2
-        val listaMenor: List[T] = List()
-        val listaMayor: List[T] = List()
-        def crearListas(l:List[T], v:T, comp:Comparador[T], contador:Int){
-
-
-
-            v::listaMenor
-            
-        }
-        crearListas(e,l,comp,0) 
-        
-
-
-        
-
+    def menoresQue_noMenoresQue[T]( l: List[T], v: T, comp: Comparador[T] ): (List[T], List[T], Int) = {
+        if ( l.isEmpty ) (List(), List(), 0)
+        else
+            val (lista1, lista2, contador) = menoresQue_noMenoresQue(l.tail, v, comp)
+            if ( comp(l.head, v) ) ( l.head :: lista1, lista2, contador + 1)
+            else ( lista1, l.head :: lista2, contador + 1)
     }
 
     /*Recibe una lista de elementos de tipo T y un comparador de esos elementos
     y devuelve la lista ordenada y el numero de comparaciones realizadas en una 
     pareja Usando el quickSort*/
     def quickSort[T] (comp:Comparador[T]): AlgoritmoOrd[T] = {
-        /*2 listas, l1+l2=l y Todos los elementos de l1 son mayores
-        que todos los elementos de l2*
-        El pivote es el primer elemento de l*/
-        val pivote : T = l.head
-        def recusion(){}
-        def insertion(gl:List[T],nl:List[T],cont:Int):(List[T],Int) =
-
-                
-            
+        def algoritmo(lista:List[T]):(List[T],Int) = {
+            //Avances
         }
-        
     }
 
     /*Recibe dos algoritmos de ordenamiento y una lista para ordenar
@@ -87,6 +66,14 @@ package object Comparador{
 
         if(l1 == l2) (c1,c2) else (-1,-1)
     } 
-}
 
- 
+    @main def main() = {
+
+        def menorQue(a: Int, b: Int) = a < b  
+
+        val (l1, l2, c) = menoresQue_noMenoresQue(List(6,5,3,2,1), 4, menorQue)
+
+        println((l1,l2,c)) 
+
+    }
+}
