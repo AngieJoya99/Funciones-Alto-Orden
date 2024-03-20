@@ -11,7 +11,7 @@ package object Comparador{
 
        def insertar[T](e:T, l:List[T], comp:Comparador[T],cont:Int):(List[T],Int) =
        {
-        if ((l.isEmpty)||(comp(e,l.head))) (e::l,cont) 
+        if (l.isEmpty) (e::l,cont) else if (comp(e,l.head)) (e::l,cont+1) 
         else 
         {
             val (lista,contador) = insertar(e,l.tail,comp,cont+1)
