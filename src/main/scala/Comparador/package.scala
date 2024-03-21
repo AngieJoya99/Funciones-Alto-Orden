@@ -35,23 +35,31 @@ package object Comparador {
         (gl:List[T]) =>{insertion(gl,List[T](), 0)}        
     }
 
+    /*Recibe una lista de elementos de tipo T y un valor v de tipo T 
+    y un comparador de elementos de T, y devuelve la lista de elementos de l
+    que son menores que v, la lista de los que no son menores que v
+    y cuantas comparaciones se hicieron para llegar a ella*/
     def menoresQue_noMenoresQue[T]( l: List[T], v: T, comp: Comparador[T] ): (List[T], List[T], Int) = {
         if ( l.isEmpty ) (List(), List(), 0)
-        else
+        else{
             val (lista1, lista2, contador) = menoresQue_noMenoresQue(l.tail, v, comp)
             if ( comp(l.head, v) ) ( l.head :: lista1, lista2, contador + 1)
             else ( lista1, l.head :: lista2, contador + 1)
+        }
     }
 
+    /*Recibe una lista de elementos de tipo T y un comparador de esos elementos
+    y devuelve la lista ordenada y el numero de comparaciones realizadas en una 
+    pareja Usando el quickSort*/
     def quickSort[T] (comp:Comparador[T]): AlgoritmoOrd[T] = {
         def algoritmo(lista:List[T]):(List[T],Int) = {
             if(lista.isEmpty) (List(),0)
             else {
                 val pivote : T = lista.head
                 val (menores, mayores, contador) = menoresQue_noMenoresQue(lista.tail, pivote, comp)
-                val (menoresOrdenados, contadorMenores) = algoritmo(menores)
-                val (mayoresOrdenados, contadorMayores) = algoritmo(mayores)
-                (menoresOrdenados ::: (pivote :: mayoresOrdenados), contador + contadorMenores + contadorMayores)
+                val (listaMenores, contMenor) = algoritmo(menores)
+                val (listaMayores, contMayor) = algoritmo(mayores)
+                (listaMenores ::: (pivote :: listaMayores),contador + contMenor + contMayor)
             }
         }
         algoritmo
@@ -70,11 +78,15 @@ package object Comparador {
 
     @main def main() = {
 
-        def menorQue(a: Int, b: Int) = a < b  
+        
+        def menorQueS(a: String, b: String) = a < b  
+        def menorQueI(a: Int, b: Int) = a < b 
+        //println(quickSort[String](menorQueS)(List("c","b","a","f","e","d")))
+        println(quickSort[Int](menorQueI)(List(6,15,13,2,4,10)))
+        //val prueba2 = quickSort[Int](menorQueI)
+        //val (l1, l2, c) = menoresQue_noMenoresQue(List(6,15,13,2,10), 4, menorQueI)
 
-        val (l1, l2, c) = menoresQue_noMenoresQue(List(6,5,3,2,1), 4, menorQue)
-
-        println((l1,l2,c)) 
+        //println((l1,l2,c)) 
 
     }
 }

@@ -692,3 +692,525 @@ WARNING: Unmatched cancel notification for request id 3595
 2024.03.20 13:36:26 INFO  time: compiled root in 0.64s
 mar 20, 2024 1:36:46 P. M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFO: Unsupported notification method: $/setTrace
+mar 20, 2024 1:43:27 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3683
+2024.03.20 13:43:31 INFO  compiling root (1 scala source)
+2024.03.20 13:43:31 INFO  time: compiled root in 0.73s
+2024.03.20 13:43:45 INFO  compiling root (1 scala source)
+2024.03.20 13:43:45 INFO  time: compiled root in 0.6s
+2024.03.20 13:43:53 INFO  compiling root (1 scala source)
+2024.03.20 13:43:53 INFO  time: compiled root in 0.64s
+2024.03.20 13:43:56 INFO  compiling root (1 scala source)
+2024.03.20 13:43:56 INFO  time: compiled root in 0.61s
+2024.03.20 13:44:03 INFO  compiling root (1 scala source)
+2024.03.20 13:44:03 INFO  time: compiled root in 0.53s
+2024.03.20 13:44:14 INFO  compiling root (1 scala source)
+2024.03.20 13:44:14 INFO  time: compiled root in 0.52s
+2024.03.20 13:44:26 INFO  compiling root (1 scala source)
+2024.03.20 13:44:26 INFO  time: compiled root in 0.69s
+mar 20, 2024 1:44:49 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3903
+2024.03.20 13:44:53 INFO  compiling root (1 scala source)
+2024.03.20 13:44:53 INFO  time: compiled root in 0.23s
+2024.03.20 13:44:57 INFO  compiling root (1 scala source)
+2024.03.20 13:44:57 INFO  time: compiled root in 0.23s
+2024.03.20 13:46:36 INFO  compiling root (1 scala source)
+2024.03.20 13:46:36 INFO  time: compiled root in 0.75s
+2024.03.20 13:47:40 INFO  compiling root (1 scala source)
+2024.03.20 13:47:40 INFO  time: compiled root in 0.53s
+2024.03.20 13:47:45 INFO  compiling root (1 scala source)
+2024.03.20 13:47:45 INFO  time: compiled root in 0.33s
+2024.03.20 13:47:48 INFO  compiling root (1 scala source)
+2024.03.20 13:47:48 INFO  time: compiled root in 0.58s
+2024.03.20 13:48:01 INFO  compiling root (1 scala source)
+2024.03.20 13:48:01 INFO  time: compiled root in 0.61s
+mar 20, 2024 1:57:34 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4165
+2024.03.20 14:01:55 INFO  compiling root (1 scala source)
+2024.03.20 14:01:55 INFO  time: compiled root in 0.69s
+2024.03.20 14:02:24 INFO  compiling root (1 scala source)
+2024.03.20 14:02:24 INFO  time: compiled root in 0.61s
+2024.03.20 14:02:30 INFO  compiling root (1 scala source)
+2024.03.20 14:02:30 INFO  time: compiled root in 0.29s
+mar 20, 2024 2:02:31 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4324
+2024.03.20 14:02:38 INFO  compiling root (1 scala source)
+2024.03.20 14:02:38 INFO  time: compiled root in 0.56s
+2024.03.20 14:02:45 INFO  compiling root (1 scala source)
+2024.03.20 14:02:45 INFO  time: compiled root in 0.53s
+2024.03.20 14:02:49 INFO  compiling root (1 scala source)
+2024.03.20 14:02:49 INFO  time: compiled root in 0.56s
+2024.03.20 14:02:57 INFO  compiling root (1 scala source)
+2024.03.20 14:02:57 INFO  time: compiled root in 0.67s
+2024.03.20 14:03:05 INFO  compiling root (1 scala source)
+2024.03.20 14:03:05 INFO  time: compiled root in 0.55s
+2024.03.20 14:09:22 INFO  compiling root (1 scala source)
+2024.03.20 14:09:22 INFO  time: compiled root in 0.49s
+2024.03.20 14:10:21 INFO  compiling root (1 scala source)
+2024.03.20 14:10:21 INFO  time: compiled root in 0.65s
+2024.03.20 14:16:51 INFO  compiling root (1 scala source)
+2024.03.20 14:16:51 INFO  time: compiled root in 0.67s
+2024.03.20 14:17:53 INFO  compiling root (1 scala source)
+2024.03.20 14:17:53 INFO  time: compiled root in 0.52s
+2024.03.20 14:17:58 INFO  compiling root (1 scala source)
+2024.03.20 14:17:58 INFO  time: compiled root in 0.53s
+2024.03.20 14:18:03 INFO  compiling root (1 scala source)
+2024.03.20 14:18:03 INFO  time: compiled root in 0.55s
+2024.03.20 14:19:06 INFO  compiling root (1 scala source)
+2024.03.20 14:19:06 INFO  time: compiled root in 0.51s
+2024.03.20 14:19:26 INFO  compiling root (1 scala source)
+2024.03.20 14:19:26 INFO  time: compiled root in 0.51s
+2024.03.20 14:20:36 INFO  compiling root (1 scala source)
+2024.03.20 14:20:36 INFO  time: compiled root in 0.57s
+2024.03.20 14:20:42 INFO  compiling root (1 scala source)
+2024.03.20 14:20:42 INFO  time: compiled root in 0.73s
+2024.03.20 14:20:51 INFO  compiling root (1 scala source)
+2024.03.20 14:20:51 INFO  time: compiled root in 0.57s
+2024.03.20 14:20:54 INFO  compiling root (1 scala source)
+2024.03.20 14:20:54 INFO  time: compiled root in 0.55s
+2024.03.20 14:21:00 INFO  compiling root (1 scala source)
+2024.03.20 14:21:00 INFO  time: compiled root in 0.52s
+2024.03.20 14:24:14 INFO  Shutting down server
+2024.03.20 14:24:14 INFO  shutting down Metals
+2024.03.20 14:24:14 INFO  Shut down connection with build server.
+2024.03.20 14:24:14 INFO  Shut down connection with build server.
+2024.03.20 14:24:14 INFO  Exiting server
+2024.03.20 14:26:29 INFO  Started: Metals version 1.2.2 in folders 'E:\Universidad\Ingeniería de Sistemas\3 - Tercer Semestre\Fund. Prog. Funcional y Concurrente\Talleres\Taller Funciones Alto Orden' for client Visual Studio Code 1.87.2.
+14:26:32.700 [pool-1-thread-1] INFO org.flywaydb.core.internal.license.VersionPrinter -- Flyway Community Edition 9.22.3 by Redgate
+14:26:32.709 [pool-1-thread-1] INFO org.flywaydb.core.internal.license.VersionPrinter -- See release notes here: https://rd.gt/416ObMi
+14:26:32.710 [pool-1-thread-1] INFO org.flywaydb.core.internal.license.VersionPrinter -- 
+14:26:32.722 [pool-1-thread-1] DEBUG org.flywaydb.core.internal.scanner.classpath.ClassPathScanner -- Scanning for classpath resources at 'classpath:db/callback' ...
+14:26:32.724 [pool-1-thread-1] DEBUG org.flywaydb.core.internal.scanner.classpath.ClassPathScanner -- Determining location urls for classpath:db/callback using ClassLoader jdk.internal.loader.ClassLoaders$AppClassLoader@70dea4e ...
+14:26:32.724 [pool-1-thread-1] DEBUG org.flywaydb.core.internal.scanner.classpath.ClassPathScanner -- Unable to resolve location classpath:db/callback.
+14:26:32.724 [pool-1-thread-1] DEBUG org.flywaydb.core.internal.scanner.classpath.ClassPathScanner -- Scanning for classpath resources at 'classpath:db/migration' ...
+14:26:32.724 [pool-1-thread-1] DEBUG org.flywaydb.core.internal.scanner.classpath.ClassPathScanner -- Determining location urls for classpath:db/migration using ClassLoader jdk.internal.loader.ClassLoaders$AppClassLoader@70dea4e ...
+14:26:32.727 [pool-1-thread-1] DEBUG org.flywaydb.core.internal.scanner.classpath.ClassPathScanner -- Scanning URL: jar:file:/C:/Users/USUARIO/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scalameta/metals_2.13/1.2.2/metals_2.13-1.2.2.jar!/db/migration
+14:26:32.737 [pool-1-thread-1] DEBUG org.flywaydb.core.internal.scanner.classpath.ClassPathScanner -- Found resource: db/migration/
+14:26:32.738 [pool-1-thread-1] DEBUG org.flywaydb.core.internal.scanner.classpath.ClassPathScanner -- Found resource: db/migration/V1__Create_tables.sql
+14:26:32.738 [pool-1-thread-1] DEBUG org.flywaydb.core.internal.scanner.classpath.ClassPathScanner -- Found resource: db/migration/V2__Server_discovery.sql
+14:26:32.739 [pool-1-thread-1] DEBUG org.flywaydb.core.internal.scanner.classpath.ClassPathScanner -- Found resource: db/migration/V3__Jar_symbols.sql
+14:26:32.739 [pool-1-thread-1] DEBUG org.flywaydb.core.internal.scanner.classpath.ClassPathScanner -- Found resource: db/migration/V4__Fingerprints.sql
+14:26:32.740 [pool-1-thread-1] DEBUG org.flywaydb.core.internal.scanner.classpath.ClassPathScanner -- Scanning for classes at classpath:db/migration
+14:26:32.757 [pool-1-thread-1] DEBUG org.flywaydb.core.internal.scanner.Scanner -- Filtering out resource: db/migration/ (filename: )
+14:26:32.758 [pool-1-thread-1] DEBUG org.flywaydb.core.internal.resource.ResourceNameValidator -- Validating V1__Create_tables.sql
+14:26:32.762 [pool-1-thread-1] DEBUG org.flywaydb.core.internal.resource.ResourceNameValidator -- Validating V2__Server_discovery.sql
+14:26:32.763 [pool-1-thread-1] DEBUG org.flywaydb.core.internal.resource.ResourceNameValidator -- Validating V3__Jar_symbols.sql
+14:26:32.764 [pool-1-thread-1] DEBUG org.flywaydb.core.internal.resource.ResourceNameValidator -- Validating V4__Fingerprints.sql
+14:26:33.166 [pool-1-thread-1] INFO org.flywaydb.core.FlywayExecutor -- Database: jdbc:h2:file:E:\Universidad\Ingeniería de Sistemas\3 - Tercer Semestre\Fund. Prog. Funcional y Concurrente\Talleres\Taller Funciones Alto Orden\.metals\metals (H2 2.2)
+14:26:33.167 [pool-1-thread-1] DEBUG org.flywaydb.core.FlywayExecutor -- Driver: H2 JDBC Driver 2.2.224 (2023-09-17)
+14:26:33.167 [pool-1-thread-1] DEBUG org.flywaydb.core.FlywayExecutor -- DDL Transactions Supported: false
+14:26:33.172 [pool-1-thread-1] DEBUG org.flywaydb.core.internal.schemahistory.SchemaHistoryFactory -- Schemas: 
+14:26:33.173 [pool-1-thread-1] DEBUG org.flywaydb.core.internal.schemahistory.SchemaHistoryFactory -- Default schema: null
+14:26:33.195 [pool-1-thread-1] WARN org.flywaydb.core.internal.database.base.Database -- Flyway upgrade recommended: H2 2.2.224 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+14:26:33.201 [pool-1-thread-1] DEBUG org.flywaydb.core.internal.callback.SqlScriptCallbackFactory -- Scanning for SQL callbacks ...
+14:26:33.202 [pool-1-thread-1] DEBUG org.flywaydb.core.internal.scanner.Scanner -- Filtering out resource: db/migration/ (filename: )
+14:26:33.234 [pool-1-thread-1] DEBUG org.flywaydb.core.internal.command.DbValidate -- Validating migrations ...
+14:26:33.249 [pool-1-thread-1] DEBUG org.flywaydb.core.internal.scanner.Scanner -- Filtering out resource: db/migration/ (filename: )
+14:26:33.293 [pool-1-thread-1] DEBUG org.flywaydb.core.internal.scanner.Scanner -- Filtering out resource: db/migration/V1__Create_tables.sql (filename: V1__Create_tables.sql)
+14:26:33.294 [pool-1-thread-1] DEBUG org.flywaydb.core.internal.scanner.Scanner -- Filtering out resource: db/migration/V2__Server_discovery.sql (filename: V2__Server_discovery.sql)
+14:26:33.294 [pool-1-thread-1] DEBUG org.flywaydb.core.internal.scanner.Scanner -- Filtering out resource: db/migration/V3__Jar_symbols.sql (filename: V3__Jar_symbols.sql)
+14:26:33.295 [pool-1-thread-1] DEBUG org.flywaydb.core.internal.scanner.Scanner -- Filtering out resource: db/migration/ (filename: )
+14:26:33.295 [pool-1-thread-1] DEBUG org.flywaydb.core.internal.scanner.Scanner -- Filtering out resource: db/migration/V4__Fingerprints.sql (filename: V4__Fingerprints.sql)
+14:26:33.301 [pool-1-thread-1] DEBUG org.flywaydb.core.internal.scanner.Scanner -- Filtering out resource: db/migration/V1__Create_tables.sql (filename: V1__Create_tables.sql)
+14:26:33.302 [pool-1-thread-1] DEBUG org.flywaydb.core.internal.scanner.Scanner -- Filtering out resource: db/migration/V2__Server_discovery.sql (filename: V2__Server_discovery.sql)
+14:26:33.303 [pool-1-thread-1] DEBUG org.flywaydb.core.internal.scanner.Scanner -- Filtering out resource: db/migration/V3__Jar_symbols.sql (filename: V3__Jar_symbols.sql)
+14:26:33.303 [pool-1-thread-1] DEBUG org.flywaydb.core.internal.scanner.Scanner -- Filtering out resource: db/migration/ (filename: )
+14:26:33.303 [pool-1-thread-1] DEBUG org.flywaydb.core.internal.scanner.Scanner -- Filtering out resource: db/migration/V4__Fingerprints.sql (filename: V4__Fingerprints.sql)
+14:26:33.354 [pool-1-thread-1] INFO org.flywaydb.core.internal.command.DbValidate -- Successfully validated 4 migrations (execution time 00:00.116s)
+14:26:33.364 [pool-1-thread-1] DEBUG org.flywaydb.core.internal.command.DbSchemas -- Skipping creation of existing schema: "PUBLIC"
+14:26:33.399 [pool-1-thread-1] INFO org.flywaydb.core.internal.command.DbMigrate -- Current version of schema "PUBLIC": 4
+14:26:33.414 [pool-1-thread-1] INFO org.flywaydb.core.internal.command.DbMigrate -- Schema "PUBLIC" is up to date. No migration necessary.
+14:26:33.470 [pool-1-thread-1] DEBUG org.flywaydb.core.FlywayExecutor -- Memory usage: 35 of 100M
+2024.03.20 14:26:36 INFO  Attempting to connect to the build server...
+2024.03.20 14:26:36 INFO  skipping build import with status 'Installed'
+2024.03.20 14:26:36 INFO  Bloop uses C:\Program Files\Java\jdk-20 defined at C:\Users\USUARIO\.bloop\bloop.json
+2024.03.20 14:26:47 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at E:\Universidad\Ingeniería de Sistemas\3 - Tercer Semestre\Fund. Prog. Funcional y Concurrente\Talleres\Taller Funciones Alto Orden\.metals\bsp.trace.json or C:\Users\USUARIO\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.03.20 14:26:47 INFO  Attempting to connect to the build server...
+2024.03.20 14:26:47 INFO  Bloop uses C:\Program Files\Java\jdk-20 defined at C:\Users\USUARIO\.bloop\bloop.json
+2024.03.20 14:26:47 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at E:\Universidad\Ingeniería de Sistemas\3 - Tercer Semestre\Fund. Prog. Funcional y Concurrente\Talleres\Taller Funciones Alto Orden\project\.metals\bsp.trace.json or C:\Users\USUARIO\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.03.20 14:26:47 INFO  time: Connected to build server in 11s
+2024.03.20 14:26:47 INFO  Connected to Build server: Bloop v1.5.15
+2024.03.20 14:26:48 INFO  time: Imported build in 0.52s
+2024.03.20 14:26:54 INFO  no build target found for E:\Universidad\Ingeniería de Sistemas\3 - Tercer Semestre\Fund. Prog. Funcional y Concurrente\Talleres\Taller Funciones Alto Orden\src\main\scala\Comparador\package.scala. Using presentation compiler with project's scala-library version: 3.3.1
+2024.03.20 14:26:59 INFO  Failed to resolve mtags for 3.4.0
+2024.03.20 14:27:05 INFO  time: indexed workspace in 10s
+2024.03.20 15:17:19 INFO  compiling root (1 scala source)
+2024.03.20 15:17:32 INFO  time: compiled root in 12s
+2024.03.20 15:17:33 WARN  Could not load snapshot text for E:\Universidad\Ingeniería de Sistemas\3 - Tercer Semestre\Fund. Prog. Funcional y Concurrente\Talleres\Taller Funciones Alto Orden\src\main\scala\Comparador\package.scala
+2024.03.20 15:17:48 WARN  Could not load snapshot text for E:\Universidad\Ingeniería de Sistemas\3 - Tercer Semestre\Fund. Prog. Funcional y Concurrente\Talleres\Taller Funciones Alto Orden\src\main\scala\Comparador\package.scala
+2024.03.20 15:17:51 INFO  compiling root (1 scala source)
+2024.03.20 15:17:52 WARN  Could not load snapshot text for E:\Universidad\Ingeniería de Sistemas\3 - Tercer Semestre\Fund. Prog. Funcional y Concurrente\Talleres\Taller Funciones Alto Orden\src\main\scala\Comparador\package.scala
+2024.03.20 15:17:52 WARN  Could not load snapshot text for E:\Universidad\Ingeniería de Sistemas\3 - Tercer Semestre\Fund. Prog. Funcional y Concurrente\Talleres\Taller Funciones Alto Orden\src\main\scala\Comparador\package.scala
+2024.03.20 15:17:52 WARN  Could not load snapshot text for E:\Universidad\Ingeniería de Sistemas\3 - Tercer Semestre\Fund. Prog. Funcional y Concurrente\Talleres\Taller Funciones Alto Orden\src\main\scala\Comparador\package.scala
+2024.03.20 15:17:52 WARN  Could not load snapshot text for E:\Universidad\Ingeniería de Sistemas\3 - Tercer Semestre\Fund. Prog. Funcional y Concurrente\Talleres\Taller Funciones Alto Orden\src\main\scala\Comparador\package.scala
+2024.03.20 15:17:52 INFO  time: compiled root in 1.75s
+2024.03.20 15:17:53 WARN  Could not load snapshot text for E:\Universidad\Ingeniería de Sistemas\3 - Tercer Semestre\Fund. Prog. Funcional y Concurrente\Talleres\Taller Funciones Alto Orden\src\main\scala\Comparador\package.scala
+2024.03.20 15:17:55 WARN  Could not load snapshot text for E:\Universidad\Ingeniería de Sistemas\3 - Tercer Semestre\Fund. Prog. Funcional y Concurrente\Talleres\Taller Funciones Alto Orden\src\main\scala\Comparador\package.scala
+2024.03.20 15:18:01 WARN  Could not load snapshot text for E:\Universidad\Ingeniería de Sistemas\3 - Tercer Semestre\Fund. Prog. Funcional y Concurrente\Talleres\Taller Funciones Alto Orden\src\main\scala\Comparador\package.scala
+2024.03.20 15:18:03 WARN  Could not load snapshot text for E:\Universidad\Ingeniería de Sistemas\3 - Tercer Semestre\Fund. Prog. Funcional y Concurrente\Talleres\Taller Funciones Alto Orden\src\main\scala\Comparador\package.scala
+2024.03.20 15:18:03 WARN  Could not load snapshot text for E:\Universidad\Ingeniería de Sistemas\3 - Tercer Semestre\Fund. Prog. Funcional y Concurrente\Talleres\Taller Funciones Alto Orden\src\main\scala\Comparador\package.scala
+2024.03.20 15:18:03 WARN  Could not load snapshot text for E:\Universidad\Ingeniería de Sistemas\3 - Tercer Semestre\Fund. Prog. Funcional y Concurrente\Talleres\Taller Funciones Alto Orden\src\main\scala\Comparador\package.scala
+2024.03.20 15:18:11 WARN  Could not load snapshot text for E:\Universidad\Ingeniería de Sistemas\3 - Tercer Semestre\Fund. Prog. Funcional y Concurrente\Talleres\Taller Funciones Alto Orden\src\main\scala\Comparador\package.scala
+2024.03.20 15:18:12 WARN  Could not load snapshot text for E:\Universidad\Ingeniería de Sistemas\3 - Tercer Semestre\Fund. Prog. Funcional y Concurrente\Talleres\Taller Funciones Alto Orden\src\main\scala\Comparador\package.scala
+2024.03.20 15:18:15 INFO  compiling root (1 scala source)
+2024.03.20 15:18:17 INFO  time: compiled root in 2.62s
+2024.03.20 15:18:28 INFO  compiling root (1 scala source)
+2024.03.20 15:18:31 INFO  time: compiled root in 2.59s
+2024.03.20 15:27:54 INFO  compiling root (1 scala source)
+2024.03.20 15:27:57 INFO  time: compiled root in 3.23s
+2024.03.20 15:27:57 INFO  compiling root (1 scala source)
+2024.03.20 15:27:59 INFO  time: compiled root in 2.25s
+2024.03.20 15:27:59 INFO  compiling root (1 scala source)
+2024.03.20 15:28:01 INFO  time: compiled root in 1.52s
+2024.03.20 15:28:03 INFO  compiling root (1 scala source)
+2024.03.20 15:28:03 INFO  time: compiled root in 0.53s
+2024.03.20 15:28:11 INFO  compiling root (1 scala source)
+2024.03.20 15:28:11 INFO  time: compiled root in 0.53s
+2024.03.20 15:28:39 INFO  compiling root (1 scala source)
+2024.03.20 15:28:40 INFO  time: compiled root in 1.7s
+2024.03.20 15:30:50 INFO  Shutting down server
+2024.03.20 15:30:50 INFO  shutting down Metals
+2024.03.20 15:30:50 INFO  Shut down connection with build server.
+2024.03.20 15:30:50 INFO  Shut down connection with build server.
+2024.03.20 15:30:50 INFO  Exiting server
+2024.03.20 18:29:44 INFO  Started: Metals version 1.2.2 in folders 'E:\Universidad\Ingeniería de Sistemas\3 - Tercer Semestre\Fund. Prog. Funcional y Concurrente\Talleres\Taller Funciones Alto Orden' for client Visual Studio Code 1.87.2.
+18:29:45.654 [pool-1-thread-1] INFO org.flywaydb.core.internal.license.VersionPrinter -- Flyway Community Edition 9.22.3 by Redgate
+18:29:45.656 [pool-1-thread-1] INFO org.flywaydb.core.internal.license.VersionPrinter -- See release notes here: https://rd.gt/416ObMi
+18:29:45.656 [pool-1-thread-1] INFO org.flywaydb.core.internal.license.VersionPrinter -- 
+18:29:45.662 [pool-1-thread-1] DEBUG org.flywaydb.core.internal.scanner.classpath.ClassPathScanner -- Scanning for classpath resources at 'classpath:db/callback' ...
+18:29:45.662 [pool-1-thread-1] DEBUG org.flywaydb.core.internal.scanner.classpath.ClassPathScanner -- Determining location urls for classpath:db/callback using ClassLoader jdk.internal.loader.ClassLoaders$AppClassLoader@70dea4e ...
+18:29:45.662 [pool-1-thread-1] DEBUG org.flywaydb.core.internal.scanner.classpath.ClassPathScanner -- Unable to resolve location classpath:db/callback.
+18:29:45.662 [pool-1-thread-1] DEBUG org.flywaydb.core.internal.scanner.classpath.ClassPathScanner -- Scanning for classpath resources at 'classpath:db/migration' ...
+18:29:45.662 [pool-1-thread-1] DEBUG org.flywaydb.core.internal.scanner.classpath.ClassPathScanner -- Determining location urls for classpath:db/migration using ClassLoader jdk.internal.loader.ClassLoaders$AppClassLoader@70dea4e ...
+18:29:45.662 [pool-1-thread-1] DEBUG org.flywaydb.core.internal.scanner.classpath.ClassPathScanner -- Scanning URL: jar:file:/C:/Users/USUARIO/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scalameta/metals_2.13/1.2.2/metals_2.13-1.2.2.jar!/db/migration
+18:29:45.662 [pool-1-thread-1] DEBUG org.flywaydb.core.internal.scanner.classpath.ClassPathScanner -- Found resource: db/migration/
+18:29:45.662 [pool-1-thread-1] DEBUG org.flywaydb.core.internal.scanner.classpath.ClassPathScanner -- Found resource: db/migration/V1__Create_tables.sql
+18:29:45.662 [pool-1-thread-1] DEBUG org.flywaydb.core.internal.scanner.classpath.ClassPathScanner -- Found resource: db/migration/V2__Server_discovery.sql
+18:29:45.662 [pool-1-thread-1] DEBUG org.flywaydb.core.internal.scanner.classpath.ClassPathScanner -- Found resource: db/migration/V3__Jar_symbols.sql
+18:29:45.669 [pool-1-thread-1] DEBUG org.flywaydb.core.internal.scanner.classpath.ClassPathScanner -- Found resource: db/migration/V4__Fingerprints.sql
+18:29:45.669 [pool-1-thread-1] DEBUG org.flywaydb.core.internal.scanner.classpath.ClassPathScanner -- Scanning for classes at classpath:db/migration
+18:29:45.675 [pool-1-thread-1] DEBUG org.flywaydb.core.internal.scanner.Scanner -- Filtering out resource: db/migration/ (filename: )
+18:29:45.675 [pool-1-thread-1] DEBUG org.flywaydb.core.internal.resource.ResourceNameValidator -- Validating V1__Create_tables.sql
+18:29:45.675 [pool-1-thread-1] DEBUG org.flywaydb.core.internal.resource.ResourceNameValidator -- Validating V2__Server_discovery.sql
+18:29:45.675 [pool-1-thread-1] DEBUG org.flywaydb.core.internal.resource.ResourceNameValidator -- Validating V3__Jar_symbols.sql
+18:29:45.675 [pool-1-thread-1] DEBUG org.flywaydb.core.internal.resource.ResourceNameValidator -- Validating V4__Fingerprints.sql
+18:29:45.782 [pool-1-thread-1] INFO org.flywaydb.core.FlywayExecutor -- Database: jdbc:h2:file:E:\Universidad\Ingeniería de Sistemas\3 - Tercer Semestre\Fund. Prog. Funcional y Concurrente\Talleres\Taller Funciones Alto Orden\.metals\metals (H2 2.2)
+18:29:45.782 [pool-1-thread-1] DEBUG org.flywaydb.core.FlywayExecutor -- Driver: H2 JDBC Driver 2.2.224 (2023-09-17)
+18:29:45.782 [pool-1-thread-1] DEBUG org.flywaydb.core.FlywayExecutor -- DDL Transactions Supported: false
+18:29:45.798 [pool-1-thread-1] DEBUG org.flywaydb.core.internal.schemahistory.SchemaHistoryFactory -- Schemas: 
+18:29:45.798 [pool-1-thread-1] DEBUG org.flywaydb.core.internal.schemahistory.SchemaHistoryFactory -- Default schema: null
+18:29:45.798 [pool-1-thread-1] WARN org.flywaydb.core.internal.database.base.Database -- Flyway upgrade recommended: H2 2.2.224 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+18:29:45.798 [pool-1-thread-1] DEBUG org.flywaydb.core.internal.callback.SqlScriptCallbackFactory -- Scanning for SQL callbacks ...
+18:29:45.798 [pool-1-thread-1] DEBUG org.flywaydb.core.internal.scanner.Scanner -- Filtering out resource: db/migration/ (filename: )
+18:29:45.798 [pool-1-thread-1] DEBUG org.flywaydb.core.internal.command.DbValidate -- Validating migrations ...
+18:29:45.819 [pool-1-thread-1] DEBUG org.flywaydb.core.internal.scanner.Scanner -- Filtering out resource: db/migration/ (filename: )
+18:29:45.828 [pool-1-thread-1] DEBUG org.flywaydb.core.internal.scanner.Scanner -- Filtering out resource: db/migration/V1__Create_tables.sql (filename: V1__Create_tables.sql)
+18:29:45.828 [pool-1-thread-1] DEBUG org.flywaydb.core.internal.scanner.Scanner -- Filtering out resource: db/migration/V2__Server_discovery.sql (filename: V2__Server_discovery.sql)
+18:29:45.828 [pool-1-thread-1] DEBUG org.flywaydb.core.internal.scanner.Scanner -- Filtering out resource: db/migration/V3__Jar_symbols.sql (filename: V3__Jar_symbols.sql)
+18:29:45.828 [pool-1-thread-1] DEBUG org.flywaydb.core.internal.scanner.Scanner -- Filtering out resource: db/migration/ (filename: )
+18:29:45.828 [pool-1-thread-1] DEBUG org.flywaydb.core.internal.scanner.Scanner -- Filtering out resource: db/migration/V4__Fingerprints.sql (filename: V4__Fingerprints.sql)
+18:29:45.829 [pool-1-thread-1] DEBUG org.flywaydb.core.internal.scanner.Scanner -- Filtering out resource: db/migration/V1__Create_tables.sql (filename: V1__Create_tables.sql)
+18:29:45.829 [pool-1-thread-1] DEBUG org.flywaydb.core.internal.scanner.Scanner -- Filtering out resource: db/migration/V2__Server_discovery.sql (filename: V2__Server_discovery.sql)
+18:29:45.829 [pool-1-thread-1] DEBUG org.flywaydb.core.internal.scanner.Scanner -- Filtering out resource: db/migration/V3__Jar_symbols.sql (filename: V3__Jar_symbols.sql)
+18:29:45.829 [pool-1-thread-1] DEBUG org.flywaydb.core.internal.scanner.Scanner -- Filtering out resource: db/migration/ (filename: )
+18:29:45.829 [pool-1-thread-1] DEBUG org.flywaydb.core.internal.scanner.Scanner -- Filtering out resource: db/migration/V4__Fingerprints.sql (filename: V4__Fingerprints.sql)
+18:29:45.843 [pool-1-thread-1] INFO org.flywaydb.core.internal.command.DbValidate -- Successfully validated 4 migrations (execution time 00:00.030s)
+18:29:45.845 [pool-1-thread-1] DEBUG org.flywaydb.core.internal.command.DbSchemas -- Skipping creation of existing schema: "PUBLIC"
+18:29:45.851 [pool-1-thread-1] INFO org.flywaydb.core.internal.command.DbMigrate -- Current version of schema "PUBLIC": 4
+18:29:45.854 [pool-1-thread-1] INFO org.flywaydb.core.internal.command.DbMigrate -- Schema "PUBLIC" is up to date. No migration necessary.
+18:29:45.906 [pool-1-thread-1] DEBUG org.flywaydb.core.FlywayExecutor -- Memory usage: 35 of 100M
+2024.03.20 18:29:47 INFO  skipping build import with status 'Installed'
+2024.03.20 18:29:47 INFO  Attempting to connect to the build server...
+2024.03.20 18:29:47 INFO  Bloop uses C:\Program Files\Java\jdk-20 defined at C:\Users\USUARIO\.bloop\bloop.json
+2024.03.20 18:29:54 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at E:\Universidad\Ingeniería de Sistemas\3 - Tercer Semestre\Fund. Prog. Funcional y Concurrente\Talleres\Taller Funciones Alto Orden\.metals\bsp.trace.json or C:\Users\USUARIO\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.03.20 18:29:54 INFO  Attempting to connect to the build server...
+2024.03.20 18:29:54 INFO  Bloop uses C:\Program Files\Java\jdk-20 defined at C:\Users\USUARIO\.bloop\bloop.json
+2024.03.20 18:29:54 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at E:\Universidad\Ingeniería de Sistemas\3 - Tercer Semestre\Fund. Prog. Funcional y Concurrente\Talleres\Taller Funciones Alto Orden\project\.metals\bsp.trace.json or C:\Users\USUARIO\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.03.20 18:29:54 INFO  time: Connected to build server in 6.89s
+2024.03.20 18:29:54 INFO  Connected to Build server: Bloop v1.5.15
+2024.03.20 18:29:55 INFO  time: Imported build in 0.34s
+2024.03.20 18:29:58 INFO  no build target found for E:\Universidad\Ingeniería de Sistemas\3 - Tercer Semestre\Fund. Prog. Funcional y Concurrente\Talleres\Taller Funciones Alto Orden\src\main\scala\Comparador\package.scala. Using presentation compiler with project's scala-library version: 3.3.1
+2024.03.20 18:30:01 INFO  Failed to resolve mtags for 3.4.0
+2024.03.20 18:30:04 INFO  time: indexed workspace in 6.05s
+2024.03.20 18:30:05 INFO  compiling root (1 scala source)
+2024.03.20 18:30:12 INFO  time: compiled root in 6.58s
+2024.03.20 18:30:12 INFO  compiling root (1 scala source)
+2024.03.20 18:30:15 INFO  time: compiled root in 3.17s
+2024.03.20 18:38:44 INFO  compiling root (1 scala source)
+2024.03.20 18:38:47 INFO  time: compiled root in 2.8s
+2024.03.20 18:38:47 WARN  Could not load snapshot text for E:\Universidad\Ingeniería de Sistemas\3 - Tercer Semestre\Fund. Prog. Funcional y Concurrente\Talleres\Taller Funciones Alto Orden\src\main\scala\Comparador\package.scala
+2024.03.20 18:38:47 INFO  compiling root (1 scala source)
+2024.03.20 18:38:48 WARN  Could not load snapshot text for E:\Universidad\Ingeniería de Sistemas\3 - Tercer Semestre\Fund. Prog. Funcional y Concurrente\Talleres\Taller Funciones Alto Orden\src\main\scala\Comparador\package.scala
+2024.03.20 18:38:48 INFO  time: compiled root in 1.3s
+2024.03.20 18:38:49 WARN  Could not load snapshot text for E:\Universidad\Ingeniería de Sistemas\3 - Tercer Semestre\Fund. Prog. Funcional y Concurrente\Talleres\Taller Funciones Alto Orden\src\main\scala\Comparador\package.scala
+2024.03.20 18:38:50 INFO  compiling root (1 scala source)
+2024.03.20 18:38:51 INFO  time: compiled root in 1.17s
+2024.03.20 18:40:22 INFO  compiling root (1 scala source)
+2024.03.20 18:40:22 INFO  time: compiled root in 0.38s
+2024.03.20 18:52:33 INFO  compiling root (1 scala source)
+2024.03.20 18:52:33 INFO  time: compiled root in 0.28s
+2024.03.20 18:52:37 INFO  compiling root (1 scala source)
+2024.03.20 18:52:37 INFO  time: compiled root in 0.74s
+2024.03.20 18:52:47 INFO  compiling root (1 scala source)
+2024.03.20 18:52:47 INFO  time: compiled root in 0.71s
+2024.03.20 18:53:01 INFO  compiling root (1 scala source)
+2024.03.20 18:53:01 WARN  Could not load snapshot text for E:\Universidad\Ingeniería de Sistemas\3 - Tercer Semestre\Fund. Prog. Funcional y Concurrente\Talleres\Taller Funciones Alto Orden\src\main\scala\Comparador\package.scala
+2024.03.20 18:53:01 INFO  time: compiled root in 0.41s
+2024.03.20 18:53:02 WARN  Could not load snapshot text for E:\Universidad\Ingeniería de Sistemas\3 - Tercer Semestre\Fund. Prog. Funcional y Concurrente\Talleres\Taller Funciones Alto Orden\src\main\scala\Comparador\package.scala
+2024.03.20 18:53:04 WARN  Could not load snapshot text for E:\Universidad\Ingeniería de Sistemas\3 - Tercer Semestre\Fund. Prog. Funcional y Concurrente\Talleres\Taller Funciones Alto Orden\src\main\scala\Comparador\package.scala
+2024.03.20 18:53:05 WARN  Could not load snapshot text for E:\Universidad\Ingeniería de Sistemas\3 - Tercer Semestre\Fund. Prog. Funcional y Concurrente\Talleres\Taller Funciones Alto Orden\src\main\scala\Comparador\package.scala
+2024.03.20 18:53:06 WARN  Could not load snapshot text for E:\Universidad\Ingeniería de Sistemas\3 - Tercer Semestre\Fund. Prog. Funcional y Concurrente\Talleres\Taller Funciones Alto Orden\src\main\scala\Comparador\package.scala
+2024.03.20 18:53:08 WARN  Could not load snapshot text for E:\Universidad\Ingeniería de Sistemas\3 - Tercer Semestre\Fund. Prog. Funcional y Concurrente\Talleres\Taller Funciones Alto Orden\src\main\scala\Comparador\package.scala
+2024.03.20 18:53:10 INFO  compiling root (1 scala source)
+2024.03.20 18:53:10 INFO  time: compiled root in 0.21s
+2024.03.20 18:53:11 WARN  Could not load snapshot text for E:\Universidad\Ingeniería de Sistemas\3 - Tercer Semestre\Fund. Prog. Funcional y Concurrente\Talleres\Taller Funciones Alto Orden\src\main\scala\Comparador\package.scala
+2024.03.20 18:53:13 INFO  compiling root (1 scala source)
+2024.03.20 18:53:13 INFO  time: compiled root in 0.23s
+2024.03.20 18:53:14 WARN  Could not load snapshot text for E:\Universidad\Ingeniería de Sistemas\3 - Tercer Semestre\Fund. Prog. Funcional y Concurrente\Talleres\Taller Funciones Alto Orden\src\main\scala\Comparador\package.scala
+2024.03.20 18:53:15 WARN  Could not load snapshot text for E:\Universidad\Ingeniería de Sistemas\3 - Tercer Semestre\Fund. Prog. Funcional y Concurrente\Talleres\Taller Funciones Alto Orden\src\main\scala\Comparador\package.scala
+2024.03.20 18:53:16 WARN  Could not load snapshot text for E:\Universidad\Ingeniería de Sistemas\3 - Tercer Semestre\Fund. Prog. Funcional y Concurrente\Talleres\Taller Funciones Alto Orden\src\main\scala\Comparador\package.scala
+2024.03.20 18:53:18 WARN  Could not load snapshot text for E:\Universidad\Ingeniería de Sistemas\3 - Tercer Semestre\Fund. Prog. Funcional y Concurrente\Talleres\Taller Funciones Alto Orden\src\main\scala\Comparador\package.scala
+2024.03.20 18:53:24 INFO  compiling root (1 scala source)
+2024.03.20 18:53:24 INFO  time: compiled root in 0.27s
+2024.03.20 18:53:26 WARN  Could not load snapshot text for E:\Universidad\Ingeniería de Sistemas\3 - Tercer Semestre\Fund. Prog. Funcional y Concurrente\Talleres\Taller Funciones Alto Orden\src\main\scala\Comparador\package.scala
+2024.03.20 18:53:27 WARN  Could not load snapshot text for E:\Universidad\Ingeniería de Sistemas\3 - Tercer Semestre\Fund. Prog. Funcional y Concurrente\Talleres\Taller Funciones Alto Orden\src\main\scala\Comparador\package.scala
+2024.03.20 18:53:29 WARN  Could not load snapshot text for E:\Universidad\Ingeniería de Sistemas\3 - Tercer Semestre\Fund. Prog. Funcional y Concurrente\Talleres\Taller Funciones Alto Orden\src\main\scala\Comparador\package.scala
+2024.03.20 18:53:31 INFO  compiling root (1 scala source)
+2024.03.20 18:53:31 INFO  time: compiled root in 0.25s
+2024.03.20 18:53:31 WARN  Could not load snapshot text for E:\Universidad\Ingeniería de Sistemas\3 - Tercer Semestre\Fund. Prog. Funcional y Concurrente\Talleres\Taller Funciones Alto Orden\src\main\scala\Comparador\package.scala
+2024.03.20 18:53:40 WARN  Could not load snapshot text for E:\Universidad\Ingeniería de Sistemas\3 - Tercer Semestre\Fund. Prog. Funcional y Concurrente\Talleres\Taller Funciones Alto Orden\src\main\scala\Comparador\package.scala
+2024.03.20 18:53:47 WARN  Could not load snapshot text for E:\Universidad\Ingeniería de Sistemas\3 - Tercer Semestre\Fund. Prog. Funcional y Concurrente\Talleres\Taller Funciones Alto Orden\src\main\scala\Comparador\package.scala
+2024.03.20 18:53:50 INFO  compiling root (1 scala source)
+2024.03.20 18:53:50 INFO  time: compiled root in 0.24s
+2024.03.20 18:53:51 WARN  Could not load snapshot text for E:\Universidad\Ingeniería de Sistemas\3 - Tercer Semestre\Fund. Prog. Funcional y Concurrente\Talleres\Taller Funciones Alto Orden\src\main\scala\Comparador\package.scala
+2024.03.20 18:53:53 WARN  Could not load snapshot text for E:\Universidad\Ingeniería de Sistemas\3 - Tercer Semestre\Fund. Prog. Funcional y Concurrente\Talleres\Taller Funciones Alto Orden\src\main\scala\Comparador\package.scala
+2024.03.20 18:53:55 WARN  Could not load snapshot text for E:\Universidad\Ingeniería de Sistemas\3 - Tercer Semestre\Fund. Prog. Funcional y Concurrente\Talleres\Taller Funciones Alto Orden\src\main\scala\Comparador\package.scala
+2024.03.20 18:53:56 WARN  Could not load snapshot text for E:\Universidad\Ingeniería de Sistemas\3 - Tercer Semestre\Fund. Prog. Funcional y Concurrente\Talleres\Taller Funciones Alto Orden\src\main\scala\Comparador\package.scala
+2024.03.20 18:54:00 INFO  compiling root (1 scala source)
+2024.03.20 18:54:00 INFO  time: compiled root in 0.2s
+2024.03.20 18:54:02 WARN  Could not load snapshot text for E:\Universidad\Ingeniería de Sistemas\3 - Tercer Semestre\Fund. Prog. Funcional y Concurrente\Talleres\Taller Funciones Alto Orden\src\main\scala\Comparador\package.scala
+2024.03.20 18:54:04 INFO  compiling root (1 scala source)
+2024.03.20 18:54:04 INFO  time: compiled root in 0.27s
+2024.03.20 18:54:06 WARN  Could not load snapshot text for E:\Universidad\Ingeniería de Sistemas\3 - Tercer Semestre\Fund. Prog. Funcional y Concurrente\Talleres\Taller Funciones Alto Orden\src\main\scala\Comparador\package.scala
+2024.03.20 18:54:39 WARN  Could not load snapshot text for E:\Universidad\Ingeniería de Sistemas\3 - Tercer Semestre\Fund. Prog. Funcional y Concurrente\Talleres\Taller Funciones Alto Orden\src\main\scala\Comparador\package.scala
+2024.03.20 18:54:42 WARN  Could not load snapshot text for E:\Universidad\Ingeniería de Sistemas\3 - Tercer Semestre\Fund. Prog. Funcional y Concurrente\Talleres\Taller Funciones Alto Orden\src\main\scala\Comparador\package.scala
+2024.03.20 18:54:45 INFO  compiling root (1 scala source)
+2024.03.20 18:54:45 INFO  time: compiled root in 0.21s
+2024.03.20 18:54:45 WARN  Could not load snapshot text for E:\Universidad\Ingeniería de Sistemas\3 - Tercer Semestre\Fund. Prog. Funcional y Concurrente\Talleres\Taller Funciones Alto Orden\src\main\scala\Comparador\package.scala
+2024.03.20 18:54:57 WARN  Could not load snapshot text for E:\Universidad\Ingeniería de Sistemas\3 - Tercer Semestre\Fund. Prog. Funcional y Concurrente\Talleres\Taller Funciones Alto Orden\src\main\scala\Comparador\package.scala
+2024.03.20 18:55:05 WARN  Could not load snapshot text for E:\Universidad\Ingeniería de Sistemas\3 - Tercer Semestre\Fund. Prog. Funcional y Concurrente\Talleres\Taller Funciones Alto Orden\src\main\scala\Comparador\package.scala
+2024.03.20 18:55:08 WARN  Could not load snapshot text for E:\Universidad\Ingeniería de Sistemas\3 - Tercer Semestre\Fund. Prog. Funcional y Concurrente\Talleres\Taller Funciones Alto Orden\src\main\scala\Comparador\package.scala
+2024.03.20 18:55:15 WARN  Could not load snapshot text for E:\Universidad\Ingeniería de Sistemas\3 - Tercer Semestre\Fund. Prog. Funcional y Concurrente\Talleres\Taller Funciones Alto Orden\src\main\scala\Comparador\package.scala
+2024.03.20 18:55:17 WARN  Could not load snapshot text for E:\Universidad\Ingeniería de Sistemas\3 - Tercer Semestre\Fund. Prog. Funcional y Concurrente\Talleres\Taller Funciones Alto Orden\src\main\scala\Comparador\package.scala
+2024.03.20 18:55:23 WARN  Could not load snapshot text for E:\Universidad\Ingeniería de Sistemas\3 - Tercer Semestre\Fund. Prog. Funcional y Concurrente\Talleres\Taller Funciones Alto Orden\src\main\scala\Comparador\package.scala
+2024.03.20 18:55:23 WARN  Could not load snapshot text for E:\Universidad\Ingeniería de Sistemas\3 - Tercer Semestre\Fund. Prog. Funcional y Concurrente\Talleres\Taller Funciones Alto Orden\src\main\scala\Comparador\package.scala
+2024.03.20 18:55:24 WARN  Could not load snapshot text for E:\Universidad\Ingeniería de Sistemas\3 - Tercer Semestre\Fund. Prog. Funcional y Concurrente\Talleres\Taller Funciones Alto Orden\src\main\scala\Comparador\package.scala
+2024.03.20 18:55:24 WARN  Could not load snapshot text for E:\Universidad\Ingeniería de Sistemas\3 - Tercer Semestre\Fund. Prog. Funcional y Concurrente\Talleres\Taller Funciones Alto Orden\src\main\scala\Comparador\package.scala
+2024.03.20 18:55:26 INFO  compiling root (1 scala source)
+2024.03.20 18:55:26 INFO  time: compiled root in 0.48s
+2024.03.20 18:55:27 WARN  Could not load snapshot text for E:\Universidad\Ingeniería de Sistemas\3 - Tercer Semestre\Fund. Prog. Funcional y Concurrente\Talleres\Taller Funciones Alto Orden\src\main\scala\Comparador\package.scala
+2024.03.20 18:55:30 INFO  compiling root (1 scala source)
+2024.03.20 18:55:30 INFO  time: compiled root in 0.88s
+2024.03.20 18:55:42 INFO  compiling root (1 scala source)
+2024.03.20 18:55:42 INFO  time: compiled root in 0.42s
+2024.03.20 19:25:56 INFO  compiling root (1 scala source)
+2024.03.20 19:25:56 INFO  time: compiled root in 0.56s
+mar 20, 2024 7:26:05 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 654
+2024.03.20 19:26:12 INFO  compiling root (1 scala source)
+2024.03.20 19:26:12 INFO  time: compiled root in 0.17s
+2024.03.20 19:26:23 INFO  compiling root (1 scala source)
+2024.03.20 19:26:23 INFO  time: compiled root in 0.18s
+2024.03.20 19:26:31 INFO  compiling root (1 scala source)
+2024.03.20 19:26:31 INFO  time: compiled root in 0.17s
+2024.03.20 19:26:40 INFO  compiling root (1 scala source)
+2024.03.20 19:26:40 INFO  time: compiled root in 0.53s
+mar 20, 2024 7:40:47 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 792
+mar 20, 2024 7:40:58 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 808
+mar 20, 2024 7:41:04 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 813
+2024.03.20 20:25:30 INFO  compiling root (1 scala source)
+2024.03.20 20:25:30 INFO  time: compiled root in 0.71s
+2024.03.20 21:14:28 INFO  compiling root (1 scala source)
+2024.03.20 21:14:28 INFO  time: compiled root in 0.49s
+2024.03.20 21:14:46 INFO  compiling root (1 scala source)
+2024.03.20 21:14:46 INFO  time: compiled root in 0.17s
+2024.03.20 21:15:01 INFO  compiling root (1 scala source)
+2024.03.20 21:15:01 INFO  time: compiled root in 0.42s
+2024.03.20 21:15:08 INFO  compiling root (1 scala source)
+2024.03.20 21:15:08 INFO  time: compiled root in 0.2s
+2024.03.20 21:15:12 INFO  compiling root (1 scala source)
+2024.03.20 21:15:12 INFO  time: compiled root in 0.17s
+2024.03.20 21:15:19 INFO  compiling root (1 scala source)
+2024.03.20 21:15:19 INFO  time: compiled root in 0.17s
+2024.03.20 21:15:24 INFO  compiling root (1 scala source)
+2024.03.20 21:15:24 INFO  time: compiled root in 0.2s
+2024.03.20 21:15:27 INFO  compiling root (1 scala source)
+2024.03.20 21:15:27 INFO  time: compiled root in 0.39s
+2024.03.20 21:15:31 INFO  compiling root (1 scala source)
+2024.03.20 21:15:31 INFO  time: compiled root in 0.14s
+mar 20, 2024 9:15:34 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1177
+2024.03.20 21:15:37 INFO  compiling root (1 scala source)
+2024.03.20 21:15:37 INFO  time: compiled root in 0.38s
+2024.03.20 21:15:46 INFO  compiling root (1 scala source)
+2024.03.20 21:15:46 INFO  time: compiled root in 0.43s
+2024.03.20 21:15:50 INFO  compiling root (1 scala source)
+2024.03.20 21:15:50 INFO  time: compiled root in 0.35s
+2024.03.20 21:16:00 INFO  compiling root (1 scala source)
+2024.03.20 21:16:00 INFO  time: compiled root in 0.28s
+2024.03.20 21:16:09 INFO  compiling root (1 scala source)
+2024.03.20 21:16:09 INFO  time: compiled root in 0.38s
+mar 20, 2024 9:16:33 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1309
+2024.03.20 21:16:42 INFO  compiling root (1 scala source)
+2024.03.20 21:16:42 INFO  time: compiled root in 0.87s
+2024.03.20 21:17:05 INFO  compiling root (1 scala source)
+2024.03.20 21:17:05 INFO  time: compiled root in 0.57s
+2024.03.20 21:17:36 INFO  compiling root (1 scala source)
+2024.03.20 21:17:36 INFO  time: compiled root in 0.52s
+2024.03.20 21:17:39 INFO  compiling root (1 scala source)
+2024.03.20 21:17:39 INFO  time: compiled root in 0.42s
+2024.03.20 21:25:59 INFO  compiling root (1 scala source)
+2024.03.20 21:25:59 INFO  time: compiled root in 0.68s
+2024.03.20 21:26:16 INFO  compiling root (1 scala source)
+2024.03.20 21:26:16 INFO  time: compiled root in 0.5s
+2024.03.20 21:26:23 INFO  compiling root (1 scala source)
+2024.03.20 21:26:23 INFO  time: compiled root in 0.49s
+mar 20, 2024 9:42:06 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1821
+mar 20, 2024 9:56:13 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1840
+mar 20, 2024 9:56:26 P. M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+mar 20, 2024 9:58:30 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1864
+mar 20, 2024 10:00:59 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1919
+mar 20, 2024 10:01:09 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1936
+mar 20, 2024 10:01:59 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2163
+mar 20, 2024 10:02:37 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2354
+mar 20, 2024 11:17:54 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2527
+2024.03.20 23:45:44 ERROR Failed to tokenize input for semantic tokens for E:\Universidad\Ingeniería de Sistemas\3 - Tercer Semestre\Fund. Prog. Funcional y Concurrente\Talleres\Taller Funciones Alto Orden\src\main\scala\Comparador\package.scala
+scala.meta.tokenizers.TokenizeException: <input>:72: error: unclosed comment
+    /*@main def main() = {
+    ^
+	at scala.meta.internal.tokenizers.Reporter.incompleteInputError(Reporter.scala:27)
+	at scala.meta.internal.tokenizers.Reporter.incompleteInputError$(Reporter.scala:26)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.incompleteInputError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.incompleteInputError(Reporter.scala:29)
+	at scala.meta.internal.tokenizers.Reporter.incompleteInputError$(Reporter.scala:29)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.incompleteInputError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.skipNestedComments(LegacyScanner.scala:52)
+	at scala.meta.internal.tokenizers.LegacyScanner.skipToCommentEnd(LegacyScanner.scala:71)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:313)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:211)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:1011)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:24)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:962)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:332)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:541)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1623)
+
+2024.03.20 23:45:49 INFO  compiling root (1 scala source)
+2024.03.20 23:45:51 INFO  time: compiled root in 2.04s
+mar 20, 2024 11:46:43 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2717
+2024.03.20 23:47:27 INFO  compiling root (1 scala source)
+2024.03.20 23:47:27 INFO  time: compiled root in 0.51s
+2024.03.20 23:47:56 INFO  compiling root (1 scala source)
+2024.03.20 23:47:56 INFO  time: compiled root in 0.45s
+mar 20, 2024 11:59:47 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2954
+2024.03.21 00:38:11 INFO  compiling root (1 scala source)
+2024.03.21 00:38:11 INFO  time: compiled root in 0.82s
+2024.03.21 00:38:16 INFO  compiling root (1 scala source)
+2024.03.21 00:38:16 INFO  time: compiled root in 0.28s
+2024.03.21 00:38:22 INFO  compiling root (1 scala source)
+2024.03.21 00:38:22 INFO  time: compiled root in 0.15s
+2024.03.21 00:40:11 INFO  compiling root (1 scala source)
+2024.03.21 00:40:11 INFO  time: compiled root in 0.29s
+2024.03.21 00:40:14 INFO  compiling root (1 scala source)
+2024.03.21 00:40:14 INFO  time: compiled root in 0.22s
+2024.03.21 00:40:18 INFO  compiling root (1 scala source)
+2024.03.21 00:40:18 INFO  time: compiled root in 0.18s
+2024.03.21 00:40:30 INFO  compiling root (1 scala source)
+2024.03.21 00:40:30 INFO  time: compiled root in 0.51s
+2024.03.21 00:40:47 INFO  compiling root (1 scala source)
+2024.03.21 00:40:48 INFO  time: compiled root in 1.32s
+2024.03.21 00:41:12 INFO  compiling root (1 scala source)
+2024.03.21 00:41:12 INFO  time: compiled root in 0.61s
+2024.03.21 00:41:31 INFO  compiling root (1 scala source)
+2024.03.21 00:41:31 INFO  time: compiled root in 0.55s
+2024.03.21 00:42:00 INFO  compiling root (1 scala source)
+2024.03.21 00:42:00 INFO  time: compiled root in 0.69s
+mar 21, 2024 12:42:04 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3530
+2024.03.21 00:42:22 INFO  compiling root (1 scala source)
+2024.03.21 00:42:22 INFO  time: compiled root in 0.57s
+2024.03.21 00:42:28 INFO  compiling root (1 scala source)
+2024.03.21 00:42:28 INFO  time: compiled root in 0.41s
+mar 21, 2024 12:44:15 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3630
+2024.03.21 00:44:19 INFO  compiling root (1 scala source)
+2024.03.21 00:44:19 INFO  time: compiled root in 0.55s
+2024.03.21 00:44:40 INFO  compiling root (1 scala source)
+2024.03.21 00:44:40 INFO  time: compiled root in 0.59s
+mar 21, 2024 12:49:54 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3713
+2024.03.21 00:53:12 INFO  compiling root (1 scala source)
+2024.03.21 00:53:12 INFO  time: compiled root in 0.14s
+2024.03.21 00:53:16 INFO  compiling root (1 scala source)
+2024.03.21 00:53:16 INFO  time: compiled root in 0.19s
+2024.03.21 00:53:19 INFO  compiling root (1 scala source)
+2024.03.21 00:53:19 INFO  time: compiled root in 0.16s
+2024.03.21 00:53:25 INFO  compiling root (1 scala source)
+2024.03.21 00:53:25 INFO  time: compiled root in 0.37s
+mar 21, 2024 12:53:38 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3905
+2024.03.21 00:53:42 INFO  compiling root (1 scala source)
+2024.03.21 00:53:42 INFO  time: compiled root in 0.35s
+2024.03.21 00:53:47 INFO  compiling root (1 scala source)
+2024.03.21 00:53:47 INFO  time: compiled root in 0.33s
+2024.03.21 00:53:52 INFO  compiling root (1 scala source)
+2024.03.21 00:53:52 INFO  time: compiled root in 0.42s
+2024.03.21 00:55:21 INFO  compiling root (1 scala source)
+2024.03.21 00:55:21 INFO  time: compiled root in 0.36s
+mar 21, 2024 12:55:23 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4022
+2024.03.21 00:55:24 INFO  compiling root (1 scala source)
+2024.03.21 00:55:24 INFO  time: compiled root in 0.3s
+2024.03.21 00:55:34 INFO  compiling root (1 scala source)
+2024.03.21 00:55:34 INFO  time: compiled root in 0.34s
+2024.03.21 00:55:40 INFO  compiling root (1 scala source)
+2024.03.21 00:55:40 INFO  time: compiled root in 0.48s
+mar 21, 2024 1:16:17 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4235
+2024.03.21 02:15:03 WARN  Using indexes to guess the definition of l100
+2024.03.21 02:15:03 WARN  Using indexes to guess the definition of iSort_Asc_String
+2024.03.21 02:30:25 WARN  Using indexes to guess the definition of iSort_Asc_String
+mar 21, 2024 2:35:54 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5301
+mar 21, 2024 2:35:55 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5309
+mar 21, 2024 2:36:03 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5368
+mar 21, 2024 2:45:29 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5499
+mar 21, 2024 2:45:32 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5507
