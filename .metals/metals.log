@@ -1276,3 +1276,5 @@ WARNING: Unmatched cancel notification for request id 21
 2024.03.21 05:24:58 INFO  time: code lens generation in 6.54s
 2024.03.21 05:24:58 INFO  time: code lens generation in 6.58s
 2024.03.21 05:24:58 INFO  time: code lens generation in 6.64s
+2024.03.21 05:30:32 WARN  no build target for: /home/eminuor200441/GitHub/Funciones-Alto-Orden/src/main/scala/Comparador/package.scala
+2024.03.21 05:30:33 WARN  no build target for: /home/eminuor200441/GitHub/Funciones-Alto-Orden/src/main/scala/Comparador/package.scala

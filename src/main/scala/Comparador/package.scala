@@ -76,17 +76,4 @@ package object Comparador {
         if(l1 == l2) (c1,c2) else (-1,-1)
     } 
 
-    @main def main() = {
-
-        
-        def menorQueS(a: String, b: String) = a < b  
-        def menorQueI(a: Int, b: Int) = a < b 
-        //println(quickSort[String](menorQueS)(List("c","b","a","f","e","d")))
-        println(quickSort[Int](menorQueI)(List(6,15,13,2,4,10)))
-        //val prueba2 = quickSort[Int](menorQueI)
-        //val (l1, l2, c) = menoresQue_noMenoresQue(List(6,15,13,2,10), 4, menorQueI)
-
-        //println((l1,l2,c)) 
-
-    }
 }
